@@ -1,0 +1,91 @@
+body {
+  margin: 0%;
+  background-color: rgb(221, 221, 198);
+}
+
+.nav-bar {
+  padding-bottom: 30px;
+  margin-bottom: 0%;
+  font-size: x-large;
+  color: antiquewhite;
+  margin-top: 0%;
+  text-align: center;
+  background-color: rgba(11, 11, 99, 0.897);
+}
+/* button {
+  border: 0;
+  padding: 5px 5px 5px 5px;
+  margin: 0;
+  background-color: rgb(47, 47, 185);
+  border-radius: 2px;
+  font-size: large;
+  color: rgb(255, 255, 255);
+} */
+
+.main-main-button {
+  background-color: rgb(47, 47, 185);
+}
+
+.main-button {
+  width: 265px;
+  height: 40px;
+  border: 0;
+  padding: 5px 5px 5px 5px;
+  margin: 0;
+  background-color: rgb(47, 47, 185);
+  border-radius: 30px;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+.sub-heading {
+  text-align: center;
+  /* background-color: maroon; */
+  color: rgb(185, 1, 1);
+  text-decoration: underline;
+  background-color: rgba(226, 210, 167, 0.719);
+  padding: 5px;
+}
+.first {
+  margin-top: 0%;
+}
+
+.main-menu-buttons {
+  display: block;
+  text-align: center;
+}
+
+.menu-buttons {
+  border: 0;
+  padding: 5px 5px 5px 5px;
+  background-color: rgba(226, 197, 118, 0.733);
+  border-radius: 2px;
+  font-size: large;
+  color: rgb(168, 0, 0);
+  width: 300px;
+  height: 30px;
+}
+
+.three:hover {
+  text-decoration: underline;
+  font-size: 110%;
+  border: 2px solid rgb(168, 0, 0);
+  box-shadow: 2px 2px 2px gray;
+}
+
+.one {
+  background-color: rgb(124, 194, 218);
+  color: rgb(0, 116, 0);
+  font-weight: 900;
+  text-decoration: underline;
+  box-shadow: 1px 3px gray;
+  border-radius: 30px;
+}
+
+.two:hover {
+  box-shadow: 1px 2px gray;
+  text-shadow: 1px 1px 8px rgb(106, 106, 106);
+  background-color: rgb(124, 194, 218);
+  color: rgb(0, 116, 0);
+  text-decoration: underline;
+  font-weight: 600;
+}
