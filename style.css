@@ -19,11 +19,11 @@ body {
 
 /* MAIN NAVIGATION BUTTONS STYLING */
 
-.main-main-button {
+  .main-main-button {
   background-color: rgb(47, 47, 185);
-}
+} 
 
-.main-button {
+ .main-button {
   width: 265px;
   height: 40px;
   border: 0;
@@ -33,7 +33,7 @@ body {
   border-radius: 30px;
   font-size: large;
   color: rgb(255, 255, 255);
-}
+} 
 
 .one {
   background-color: rgb(124, 194, 218);
@@ -96,7 +96,7 @@ body {
 }
 
 /* LIST STYLING */
-li {
+ li {
   list-style-type: none;
   font-size: 16px;
   line-height: 1.6;
@@ -104,7 +104,7 @@ li {
 
 ul {
   padding-left: 10px;
-}
+} 
 /* ABOUT AND CONTACT PAGE STYLING */
 
 .about-contact-body {
